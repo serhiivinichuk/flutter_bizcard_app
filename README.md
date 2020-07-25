@@ -1,16 +1,7 @@
-# flutter_bizcard_app
+# Biz Card App
 
-Biz Card App
+First Flutter Project.
 
-## Getting Started
+Simple application with **Stateless Widgets**.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot of the application](https://github.com/serhiivinichuk/flutter_bizcard_app/raw/master/screen.png "Screenshot of the application")
